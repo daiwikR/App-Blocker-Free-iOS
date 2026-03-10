@@ -8,7 +8,7 @@
 4. Bundle ID: `com.yourname.Blocker`
 5. Language: **Swift**, Interface: **SwiftUI**
 6. **Uncheck** "Include Tests" for now (add a test target later)
-7. Save inside `/Users/daiwikreddy/Documents/Repo/Blocker/`
+7. Save inside `Preferred Dir`
 
 ## 2. Add source files
 
